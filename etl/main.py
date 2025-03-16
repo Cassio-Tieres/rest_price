@@ -1,3 +1,3 @@
-from functions.extract.extractOlxmoc import extractOlxMoc
+from functions.load.loadOlx import loadDataToDB
 
-extractOlxMoc()
+loadDataToDB()
